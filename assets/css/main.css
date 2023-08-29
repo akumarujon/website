@@ -39,6 +39,11 @@
     src: url('../../fonts/FetteHaenelFraktur.ttf');
 }
 
+@font-face {
+    font-family: 'Chomsky';
+    src: url("../../fonts/Chomsky.otf");
+}
+
 .JetBrainsMono {
     font-family: 'JetBrains Mono';
 }
@@ -65,4 +70,12 @@
 }
 .Fette-Haenel {
     font-family: 'Fette Haenel';
+}
+
+.Chomsky {
+    font-family: "Chomsky";
+}
+
+.link {
+    font-size: 30px !important;
 }
