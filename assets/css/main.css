@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'JetBrains Mono Bold';
+    src: url('../../fonts/JetBrainsMono-Bold.ttf');
+}
+@font-face {
+    font-family: 'JetBrains Mono Bold Italic';
+    src: url('../../fonts/JetBrainsMono-Bold-Italic.ttf');
+}
+@font-face {
+    font-family: 'JetBrains Mono ExtraBold';
+    src: url('../../fonts/JetBrainsMono-ExtraBold.ttf');
+}
+@font-face {
+    font-family: 'JetBrains Mono ExtraBold';
+    src: url('../../fonts/JetBrainsMono-ExtraBold.ttf');
+}
+@font-face {
+    font-family: 'JetBrains Mono Italic';
+    src: url('../../fonts/JetBrainsMono-Italic.ttf');
+}
+@font-face {
+    font-family: 'JetBrains Mono Medium Italic';
+    src: url('../../fonts/JetBrainsMono-Medium-Italic.ttf');
+}
+@font-face {
+    font-family: 'JetBrains Mono Medium';
+    src: url('../../fonts/JetBrainsMono-Medium.ttf');
+}
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: url('../../fonts/JetBrainsMono-Regular.ttf');
+}
+@font-face {
+    font-family: 'Fette Haenel';
+    src: url('../../fonts/FetteHaenelFraktur.ttf');
+}
+
+.JetBrainsMono {
+    font-family: 'JetBrains Mono';
+}
+.JetBrainsMono-Bold {
+    font-family: 'JetBrains Mono Bold';
+}
+.JetBrainsMono-ExtraBold {
+    font-family: 'JetBrains Mono ExtraBold';
+}
+.JetBrainsMono-Bold-Italic {
+    font-family: 'JetBrains Mono Bold Italic';
+}
+.JetBrains-Mono-ExtraBold-Italic {
+    font-family: 'JetBrains Mono ExtraBold Italic';
+}
+.JetBrainsMono-Italic {
+    font-family: 'JetBrains Mono Italic';
+}
+.JetBrainsMono-Medium-Italic {
+    font-family: 'JetBrains Mono Medium Italic';
+}
+.JetBrainsMono-Medium {
+    font-family: 'JetBrains Mono Medium';
+}
+.Fette-Haenel {
+    font-family: 'Fette Haenel';
+}
