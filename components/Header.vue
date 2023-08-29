@@ -1,15 +1,16 @@
 <script setup lang="ts">
+useHead({
+  meta: [
+        { name: 'og:description', content: "Konichiwa, I'm akumarujon, Enthusiast Developer from Uzbekistan. This is my personal website. You can find more information about me here." },
+        { name: "og:site_name", content: "akumarujon UwU"},
+        { name: "og:url", content: "https://akumarujon.uz"},
+        { name: "og:image", content: "https://akumarujon.uz/og.png"},
+        { name: "viewport", content: "width=device-width, initial-scale=1.0"}
+    ],
+})
 </script>
 
 <template>
-    <Head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="og:description" content="Konichiwa, I'm akumarujon, Enthusiast Developer from Uzbekistan. This is my personal website. You can find more information about me here.">
-        <meta name="og:title" content="akumarujon UwU">
-        <meta name="og:site_name" content="akumarujon - UwU.">
-        <meta name="og:url" content="https://akumarujon.uz">
-        <meta name="og:image" content="https://akumarujon.uz/og.png">
-    </Head>
     <div class="bg-neutral-950 text-white  w-100  p-10 Fette-Haenel">
         <div class="container flex justify-between items-center">
         <NuxtLink to="/">
