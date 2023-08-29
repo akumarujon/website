@@ -13,12 +13,12 @@ useHead({
 </script>
 
 <template>
-    <div class="bg-neutral-950 text-white  w-100  p-10 Fette-Haenel">
+    <div class="grey text-white  w-100  p-10 Chomsky">
         <div class="container flex justify-between items-center">
         <NuxtLink to="/">
-            <h1 class="text-4xl mx-5">akumarujon's</h1>
+            <h1 class="text-5xl mx-5">akumarujon's</h1>
         </NuxtLink>
-            <ul class="mx-5">
+            <ul class="mx-5 text-3xl">
             <li>
                 <NuxtLink to="/" class="link">Home</NuxtLink>
                 <NuxtLink to="/projects" class="link">Projects</NuxtLink>
