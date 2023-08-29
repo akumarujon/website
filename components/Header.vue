@@ -5,7 +5,9 @@ useHead({
         { name: "og:site_name", content: "akumarujon UwU"},
         { name: "og:url", content: "https://akumarujon.uz"},
         { name: "og:image", content: "https://akumarujon.uz/og.png"},
-        { name: "viewport", content: "width=device-width, initial-scale=1.0"}
+        { name: "viewport", content: "width=device-width, initial-scale=1.0"},
+        { name: "twitter:image", content: "https://akumarujon.uz/og.png"},
+        { name: "twitter:card", content: "summary_large_image"},
     ],
 })
 </script>
