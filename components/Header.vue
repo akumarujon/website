@@ -8,7 +8,7 @@
         <meta name="og:title" content="akumarujon UwU">
         <meta name="og:site_name" content="akumarujon - UwU.">
         <meta name="og:url" content="https://akumarujon.uz">
-        <meta name="og:image" content="https://i.imgur.com/03SF1t7.jpg">
+        <meta name="og:image" content="https://akumarujon.uz/og.png">
     </Head>
     <div class="bg-neutral-950 text-white  w-100  p-10 Fette-Haenel">
         <div class="container flex justify-between items-center">
