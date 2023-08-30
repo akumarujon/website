@@ -1,63 +1,31 @@
-# Nuxt 3 Minimal Starter
+<p align="center">
+<img src="./assets/rika.png" width=380>
+</p>
+<h1 align="center">My personal Website.</h2>
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+I mostly share my blogposts and information about me in this website. My website is written in JavaSciprt framework named Nuxt3 in top of VueJS. You can run my website in your machine and make changes.
 
-## Setup
-
-Make sure to install the dependencies:
-
+# Usage
+Install
 ```bash
-# npm
+git clone https://github.com/akumarujon/website
+```
+```bash
+cd website
+```
+Install && run
+```bash
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
 ```
 
-## Production
-
-Build the application for production:
-
+If you are on linux:
 ```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
+npm install && npm run dev
 ```
 
-Locally preview production build:
+PR are welcomed.(if it worth it.)
 
-```bash
-# npm
-npm run preview
+# License
 
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
