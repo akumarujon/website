@@ -6,7 +6,7 @@
 I mostly share my blogposts and information about me in this website. My website is written in JavaSciprt framework named Nuxt3 in top of VueJS. You can run my website in your machine and make changes.
 
 # Usage
-Install
+Clone
 ```bash
 git clone https://github.com/akumarujon/website
 ```
