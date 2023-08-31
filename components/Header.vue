@@ -24,6 +24,7 @@ useHead({
                 <NuxtLink to="/projects" class="link">Projects</NuxtLink>
                 <NuxtLink to="/about" class="link">About</NuxtLink>
                 <NuxtLink to="/blog" class="link">Blog</NuxtLink>
+                <NuxtLink to="/source" class="link">Source</NuxtLink>
             </li>
         </ul>
     </div>
