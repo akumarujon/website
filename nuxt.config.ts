@@ -1,12 +1,18 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
+
+
   modules: [
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
   ],
+
+
   css: [
     '@/assets/css/main.css',
   ],
+
+
   content: {
     highlight: {
       theme: {
@@ -14,6 +20,11 @@ export default defineNuxtConfig({
       }
     }
   },
+
+
+  buildModules: ['@nuxt/pwa'],
+
+
   build: {
       extractCSS: {
         ignoreOrder: true,
@@ -23,6 +34,7 @@ export default defineNuxtConfig({
           /\.vue\?vue&type=style/,
           /\/_nuxt/
         ]
-      }
-    }
+      },
+    },
+
 })
