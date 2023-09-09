@@ -1,4 +1,5 @@
 <script setup lang="ts">
+document.documentElement.setAttribute("lang",  "en")
 useHead({
   title: 'akumarujon - UwU',
 })
