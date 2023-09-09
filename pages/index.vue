@@ -3,8 +3,7 @@ useHead({
   title: 'akumarujon - UwU',
   htmlAttrs: {
     lang: 'en',
-  }
-},
+  },
 })
 </script>
 
