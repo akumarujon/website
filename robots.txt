@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /source
+
+Host: akumarujon.uz
+Sitemap: https://akumarujon.uz/sitemap.xml
