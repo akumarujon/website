@@ -1,6 +1,9 @@
 <script setup lang="ts">
 useHead({
   title: 'akumarujon - About',
+  htmlAttrs: {
+    lang: 'en',
+  },
 })
 </script>
 
