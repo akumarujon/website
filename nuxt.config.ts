@@ -6,7 +6,11 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
   ],
-
+  head: {
+    htmlAttrs: {
+      lang: "en",    
+    },
+  },
 
   css: [
     '@/assets/css/main.css',
