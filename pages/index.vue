@@ -4,6 +4,9 @@ useHead({
   htmlAttrs: {
     lang: 'en',
   },
+  link: [
+    { rel: "canonical", href: "https://akumarujon.uz" }
+  ]
 })
 </script>
 
