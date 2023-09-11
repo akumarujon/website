@@ -79,3 +79,25 @@
 .link {
     font-size: 30px !important;
 }
+
+
+
+@media screen and (max-width: 640px) {
+.header {
+    width: 100%;
+    font-size: 80px !important;
+}
+
+.about {
+    font-size: 20px;
+    width: 100%;
+}
+
+}
+
+@media screen and (min-width: 1060px) {
+    .height {
+        height: 100vh;
+      }
+}
+

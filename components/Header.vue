@@ -20,11 +20,7 @@ useHead({
         </NuxtLink>
             <ul class="mx-5 text-3xl">
             <li>
-                <NuxtLink to="/" class="link">Home</NuxtLink>
-                <NuxtLink to="/projects" class="link">Projects</NuxtLink>
-                <NuxtLink to="/about" class="link">About</NuxtLink>
-                <NuxtLink to="/blog" class="link">Blog</NuxtLink>
-                <NuxtLink to="/source" class="link">Source</NuxtLink>
+                <NuxtLink to="/map" class="link">Map</NuxtLink>
             </li>
         </ul>
     </div>
