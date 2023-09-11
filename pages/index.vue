@@ -25,7 +25,7 @@ useHead({
 
 <style>
 .height {
-  height: 100vh;
+  height: 100%;
 }
 
 .text {
