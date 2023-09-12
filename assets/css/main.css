@@ -79,3 +79,11 @@
 .link {
     font-size: 30px !important;
 }
+
+.body {
+    background-color: black;
+}
+
+body {
+    background-color: black !important;
+}
