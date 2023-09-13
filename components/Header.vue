@@ -1,7 +1,6 @@
 <script setup lang="ts">
 useHead({
     meta: [
-        { name: "description", content: "Konichiwa, I'm akumarujon, Enthusiast Developer from Uzbekistan. This is my personal website. You can find more information about me here." },
         { name: "og:description", content: "Konichiwa, I'm akumarujon, Enthusiast Developer from Uzbekistan. This is my personal website. You can find more information about me here." },
         { name: "og:site_name", content: "akumarujon UwU" },
         { name: "og:url", content: "https://akumarujon.uz" },
