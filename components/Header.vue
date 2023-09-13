@@ -1,6 +1,7 @@
 <script setup lang="ts">
 useHead({
     meta: [
+        { name: "description", content: "Konichiwa, I'm akumarujon, Enthusiast Developer from Uzbekistan. This is my personal website. You can find more information about me here." },
         { name: "og:description", content: "Konichiwa, I'm akumarujon, Enthusiast Developer from Uzbekistan. This is my personal website. You can find more information about me here." },
         { name: "og:site_name", content: "akumarujon UwU" },
         { name: "og:url", content: "https://akumarujon.uz" },
@@ -13,7 +14,7 @@ useHead({
 </script>
 
 <template>
-    <div class="grey text-white w-100 p-10 Chomsky">
+    <div class="text-center sm:text-left grey text-white w-100 p-10 Chomsky mx-auto">
         <div class="container flex mx-auto justify-between items-center">
             <NuxtLink to="/">
                 <h1 class="text-5xl mx-5">akumarujon's</h1>

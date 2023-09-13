@@ -87,3 +87,14 @@
 body {
     background-color: black !important;
 }
+
+a {
+    text-decoration: none !important;
+}
+
+@media screen and (max-width: 700) {
+    * { 
+        font-size: 30px;
+        color: red;
+    }
+}

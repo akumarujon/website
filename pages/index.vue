@@ -14,11 +14,13 @@ useHead({
   <Header></Header>
     <div class="grey text-white height" style="margin: 0 auto; max-width: 1440px;">
       <div class=" ml-20 text flex flex-col justify-center items-start ">
-        <div class="text-center">
-          <h1 class="lg:text-9xl Chomsky text-center md:text-6xl sm:text-3xl mt-6">akumarujon</h1>
+        <div class="text-left text-6xl">
+        <div>
+          <p class="sm:text-left sm:text-6xl lg:text-9xl Chomsky  md:text-6xl sm:text-3xl mt-6">akumarujon</p>
         </div>
         <p class="text-2xl JetBrainsMono">Enthusiast Developer from Uzbekistan.</p>
       </div>
+    </div>
     </div>
 </template>
   
