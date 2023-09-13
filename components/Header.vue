@@ -17,7 +17,7 @@ useHead({
     <div class="text-center sm:text-left grey text-white w-100 p-10 Chomsky mx-auto">
         <div class="container flex mx-auto justify-between items-center">
             <NuxtLink to="/">
-                <h1 class="text-5xl mx-5">akumarujon's</h1>
+                <h1 class="text-4xl mx-5">akumarujon's</h1>
             </NuxtLink>
             <ul class="mx-5 text-3xl">
                 <li>
