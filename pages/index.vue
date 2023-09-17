@@ -18,7 +18,7 @@ useHead({
         <div>
           <p class="sm:text-left sm:text-6xl lg:text-9xl Chomsky  md:text-6xl sm:text-3xl mt-6">akumarujon</p>
         </div>
-        <p class="text-2xl JetBrainsMono">Enthusiast Developer from Uzbekistan.</p>
+        <p class="text-2xl JetBrainsMono">Self-taught Developer from Uzbekistan.</p>
       </div>
     </div>
     </div>
