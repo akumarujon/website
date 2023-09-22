@@ -1,0 +1,18 @@
+[
+    {
+        "name":"xifetch",
+        "version":"v2.0.1",
+        "description": "Neofetch alternative written in Rust.",
+        "language":"Rust",
+        "url":"https://github.com/akumarujon/xifetch-rs",
+        "license":"MIT"
+    },
+    {
+        "name":"website",
+        "version":"v1",
+        "description": "My personal website rewritten in Nuxt3.",
+        "language":"TypeScript",
+        "url":"https://github.com/akumarujon/website",
+        "license":"MIT"
+    }
+]
