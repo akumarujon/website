@@ -24,7 +24,7 @@ If you are on linux:
 npm install && npm run dev
 ```
 
-PR are welcomed.(if it worth it.)
+PRs are welcomed.(if it worth it.)
 
 # License
 
