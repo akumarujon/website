@@ -15,6 +15,7 @@ const projects = ref(json);
     <div class="grey text-white height">
         <Header></Header>
         <div class="w-2/5 mx-auto">
+        <h1 class="text-5xl text-center Chomsky">My projects</h1>
         <div class="project" v-for="project in projects">
           <NuxtLink :to="`${project.url}`">
             <h1 class="text-2xl">{{ project.name }}</h1>

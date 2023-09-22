@@ -10,9 +10,97 @@
     {
         "name":"website",
         "version":"v1",
-        "description": "My personal website rewritten in Nuxt3.",
+        "description": "My personal website rewritten in Nuxt3. You are here now.",
         "language":"TypeScript",
         "url":"https://github.com/akumarujon/website",
+        "license":"MIT"
+    },
+    {
+        "name":"ObHavo",
+        "version":"v1",
+        "description": "Weather SDK which parses informations from obhavo.uz website.",
+        "language":"Python",
+        "url":"https://github.com/akumarujon/obhavo",
+        "license":"MIT"
+    },
+    {
+        "name":"websciiy",
+        "version":"v0.1.0",
+        "description": "Web version of Tapciify.",
+        "language":"Rust",
+        "url":"https://github.com/akumarujon/webciify",
+        "license":"MIT"
+    },
+    {
+        "name":"botland",
+        "version":"v0.0.1",
+        "description": "Telegram bot template which I use often. Designed for Deno runtime and grammy library.",
+        "language":"TypeScript",
+        "url":"https://github.com/akumarujon/botland",
+        "license":"MIT"
+    },
+    {
+        "name":"runner",
+        "version":"v0.0.1",
+        "description": "Telegram bot to run your codes without leaving Telegram. Uses grammy for telegram bot lib and Piston API to execute code.",
+        "language":"TypeScript",
+        "url":"https://github.com/akumarujon/runner",
+        "license":"MIT"
+    },
+    {
+        "name":"kawaragi.ts",
+        "version":"v0.0.1",
+        "description": "Rewritten version of kawaragi. Blog site which renders MarkDown files as HTML. Designed for Deno.",
+        "language":"TypeScript",
+        "url":"https://github.com/akumarujon/kawaragi.ts",
+        "license":"MIT"
+    },
+    {
+        "name":"kawaragi",
+        "version":"v0.0.1",
+        "description": "Blog site written in Python with Flask framework. Renders MarkDown files as HTML webpages.",
+        "language":"Python",
+        "url":"https://github.com/akumarujon/kawaragi",
+        "license":"MIT"
+    },
+    {
+        "name":"commits",
+        "version":"v0.0.7",
+        "description": "Script to increase ammount of your commits on GitHub. Available Python and Rust versions.",
+        "language":"Python/Rust",
+        "url":"https://github.com/akumarujon/commits",
+        "license":"MIT"
+    },
+    {
+        "name":"xodus",
+        "version":"v1",
+        "description": "Terminal todo app which stores todos in a .txt file.",
+        "language":"Python",
+        "url":"https://github.com/akumarujon/xodus",
+        "license":"MIT"
+    },
+    {
+        "name":"dotland",
+        "version":"v1",
+        "description": "Website for Denoland Uzbek Community. Still in WIP(since 2022).",
+        "language":"TypeScript",
+        "url":"https://github.com/akumarujon/dotland",
+        "license":"MIT"
+    },
+    {
+        "name":"bugalter",
+        "version":"v0.5",
+        "description": "CLI tool to exchange currencies. Designed for Deno.",
+        "language":"TypeScript",
+        "url":"https://github.com/akumarujon/bugalter",
+        "license":"MIT"
+    },
+    {
+        "name":"guard-bot",
+        "version":"v0.1",
+        "description": "Telegram bot moderator which helps you to control your telegram group. Uses PyTelegramBotAPI.",
+        "language":"Python",
+        "url":"https://github.com/akumarujon/guard-bot",
         "license":"MIT"
     }
 ]
