@@ -24,7 +24,7 @@
         "license":"MIT"
     },
     {
-        "name":"websciiy",
+        "name":"webciiy",
         "version":"v0.1.0",
         "description": "Web version of Tapciify.",
         "language":"Rust",
