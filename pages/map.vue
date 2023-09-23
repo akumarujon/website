@@ -17,6 +17,7 @@ useHead({
             <NuxtLink to="/about" class="link">About</NuxtLink>
             <NuxtLink to="/blog" class="link">Blog</NuxtLink>
             <NuxtLink to="/source" class="link">Source</NuxtLink>
+            <NuxtLink to="/contact" class="link">Contact</NuxtLink>
         </div>
     </div>
 </template>
