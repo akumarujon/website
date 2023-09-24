@@ -6,13 +6,11 @@ slug: who-am-i
 
 ### Who am I?
 
-My name is Akmal. "akumaru" is my nickname over the WWW. Many people know my original name and many of them don't. 
-I am 17 years old developer form Uzbekistan. I've been learning coding since 2020(quarantine). I have tried a lot of languages so far like
-PHP, Python, JavaScript, TypeScript, Rust, C++, Nim and V. I'm using some of them nowadays on my current projects. For example: Rust, Python and TypeScript. I've several projects that I mentioned on [projects page](https://akumarujon.uz/projects) but I have done lots of projects on my machine. I don't want to publish them because of sh*t code. I'm a real shitcoder. Actually almost all of my projects are built by shit code. But some of them are readable/better than the ones I haven't published.
+My name is Akmal. "akumaru" is my nickname over the WWW. Many people know my original name and many of them don't. I am 17 years old developer form Uzbekistan. I've been learning coding since 2020(quarantine). I have tried a lot of languages so far like PHP, Python, JavaScript, TypeScript, Rust, C++, Nim and V. I'm using some of them nowadays on my current projects. For example: Rust, Python and TypeScript. I've several projects that I mentioned on [projects page](https://akumarujon.uz/projects) but I have done lots of projects on my machine. I don't want to publish them because of sh*t code. I'm a real shitcoder. Actually almost all of my projects are built by shit code. But some of them are readable/better than the ones I haven't published.
 
 
 ### Past
-I had lots of different nicknames before akumaru, like triistam, flynnson, git7i and more cringy ones. The reason why I change my nicknames so fast is I want to have a perfect nickname like my Idol has. But then I realised my old nicknames "akumaru"(I've used it since 2021) was good enough too. I left this one with me and killed my other personalities. I was trying to be the perfect coder, but I didn't feel it's happening. Many people left me then. I thought it was their faults until I realise I was the only one who is making mistakes so long. Yes alive people make mistakes, I realised it but it was too late. So I'm trying to be myself now.
+I had lots of different nicknames before akumaru, like triistam, flynnson, git7i and more cringy ones. The reason why I change my nicknames so fast is I want to have a perfect nickname like my Idol has. But then I realised my old nickname "akumaru"(I've used it since 2021) was good enough too. I left this one with me and killed my other personalities. I was trying to be the perfect coder, but I didn't feel it's happening. Many people left me then. I thought it was their faults until I realise I was the only one who is making mistakes so long. Yes alive people make mistakes, I realised it but it was too late. So I'm trying to be myself now.
 
 
 ### ...
