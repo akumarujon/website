@@ -1,5 +1,5 @@
 ---
-title: Who am I at all?.
+title: Who am I at all?
 description: Personal introduction and some information about me I haven't mentioned on about page.
 slug: who-am-i
 ---
@@ -18,5 +18,5 @@ I had lots of different nicknames before akumaru, like triistam, flynnson, git7i
 ### ...
 My website might look so ugly. But it's my real website I've made since 2020. I've never been the developer who makes websites so easily. Front end development was always hard for me. I'm trying to learn and practice it in real projects. I'm developing my website actively: learning more about frontend, reading daily tutorials/articles, daily commiting. I hope it will look better than now in 1-2 months. Wish me good luck. I wish you good luck with your life.
 
-> I'm a cool shitposter, I share most of my posts on my [telegram blog](https://akumarubek.t.me). 
+> I'm a cool shitposter, I share most of my posts on my [telegram blog](https://akumarubek.t.me) <- (click). 
 > I'll write my old/deprecated projecs in the next post. 
