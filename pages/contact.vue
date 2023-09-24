@@ -18,10 +18,10 @@ const socials = ref(json);
     <Header></Header>
     <div class="grey text-white height" style="margin: 0 auto; max-width: 1440px;">
         <div class="text flex flex-col div">
-            <h1 class="text-center text-5xl Chomsky mb-5 heading">Reach me on social media.</h1>
+            <h1 class="text-center Chomsky mb-5 heading">Reach me on social media.</h1>
             <div v-for="social in socials" class="items-center flex justify-center">
                 <NuxtLink :to="`${social.link}`">
-                    <h1 class="social text-center text-5xl w-80 Chomsky">{{ social.social }}</h1>
+                    <h1 class="social text-center w-80 Chomsky">{{ social.social }}</h1>
                 </NuxtLink>
             </div>
         </div>

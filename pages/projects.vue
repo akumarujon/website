@@ -15,13 +15,13 @@ const projects = ref(json);
   <div class="grey text-white height">
     <Header></Header>
     <div class="w-2/5 mx-auto div">
-      <h1 class="text-5xl text-center Chomsky">My projects</h1>
+      <h1 class="text-center Chomsky">My projects</h1>
       <div class="project" v-for="project in projects">
         <NuxtLink :to="`${project.url}`">
           <h1 class="text-4xl Chomsky">{{ project.name }}</h1>
-          <p class="text-xl">{{ project.description }}</p>
-          <p class="text-xl">Language: {{ project.language }}</p>
-          <p class="text-xl">Version: {{ project.version }}</p>
+          <p class="">{{ project.description }}</p>
+          <p class="">Language: {{ project.language }}</p>
+          <p class="">Version: {{ project.version }}</p>
         </NuxtLink>
       </div>
     </div>

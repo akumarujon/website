@@ -11,7 +11,7 @@ useHead({
     <div class="grey text-white height">
         <Header></Header>
         <div class="w-4/6 mx-auto Chomsky justify-center text-center">
-            <h1 class="text-5xl mb-5">Map for my website.</h1>
+            <h1 class="mb-5">Map for my website.</h1>
             <NuxtLink to="/" class="link">Home</NuxtLink>
             <NuxtLink to="/projects" class="link">Projects</NuxtLink>
             <NuxtLink to="/about" class="link">About</NuxtLink>
@@ -25,6 +25,6 @@ useHead({
 <style scoped>
 .link {
     display: block;
-    font-size: 50px !important;
+    font-size: 45px !important;
 }
 </style>
