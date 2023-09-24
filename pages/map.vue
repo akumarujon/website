@@ -31,7 +31,7 @@ useHead({
 .link {
     border: 2px solid white;
     border-radius: 10px;
-    padding: 30px;
+    padding: 15px;
     margin: 20px;
     transition: 0.8s ease;
 }
