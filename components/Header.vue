@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import  "../assets/css/texts.css"
+
 useHead({
     meta: [
         { name: "description", content: "Konichiwa, I'm akumarujon, self-taught Developer from Uzbekistan. This is my personal website. You can find more information about me here." },
@@ -14,12 +16,12 @@ useHead({
 </script>
 
 <template>
-    <div class="text-center sm:text-left grey text-white w-100 p-10 Chomsky mx-auto">
+    <div class="text-center grey text-white w-100 p-10 Chomsky mx-auto">
         <div class="container flex mx-auto justify-between items-center">
             <NuxtLink to="/">
-                <h1 class="text-4xl mx-5">akumarujon's</h1>
+                <h1 class="mx-5">akumarujon's</h1>
             </NuxtLink>
-            <ul class="mx-5 text-3xl">
+            <ul class="mx-5">
                 <li>
                     <NuxtLink to="/map" class="link">Map</NuxtLink>
                 </li>
@@ -31,7 +33,6 @@ useHead({
 <style scoped>
 .link {
     margin: 20px;
-    font-size: 20px;
 }
 
 * {
