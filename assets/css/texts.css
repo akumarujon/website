@@ -1,3 +1,21 @@
 h1 {
     font-size: 40px;
 }
+
+p {
+    font-size: 24px;
+}
+
+@media screen and (max-width: 800px) {
+
+    h1 {
+        margin: 0 auto;
+        text-align: start !important;
+        font-size: 30px !important;
+    }
+
+    p {
+        font-size: 19px;
+    }
+
+}
