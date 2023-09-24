@@ -26,6 +26,7 @@
 .prose :where(p):not(:where([class~="not-prose"] *)) {
   color: #e5e5e5 !important;
   font-family: JetBrains Mono;
+  line-height: 1.5;
 }
 
 @media screen and (max-width: 800px) {
