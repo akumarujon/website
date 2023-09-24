@@ -15,10 +15,10 @@ const projects = ref(json);
   <div class="grey text-white height">
     <Header></Header>
     <div class="w-2/5 mx-auto div">
-      <h1 class="text-center Chomsky">My projects</h1>
+      <h1 class="text-center Chomsky project-header">My projects</h1>
       <div class="project" v-for="project in projects">
         <NuxtLink :to="`${project.url}`">
-          <h1 class="text-4xl Chomsky">{{ project.name }}</h1>
+          <h1 class=" Chomsky">{{ project.name }}</h1>
           <p class="">{{ project.description }}</p>
           <p class="">Language: {{ project.language }}</p>
           <p class="">Version: {{ project.version }}</p>
@@ -46,10 +46,13 @@ const projects = ref(json);
 
 @media screen and (max-width: 800px) {
   .div {
-  width: 90%;
-  margin: 0 auto;
-}
+    width: 90%;
+    margin: 0 auto;
+  }
 
+  .project-header {
+    text-align: center !important;
+  }
   .project {
     max-width: 400px;
     width: 100%;

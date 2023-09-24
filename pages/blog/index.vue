@@ -10,8 +10,8 @@ useHead({
     </Head>
     <div class="grey text-white">
         <Header></Header>
-        <div class="m-10">
-            <h1 class="text-center Chomsky">Blogs</h1>
+        <div class="">
+            <h1 class="text-center Chomsky blog-header">Blogs</h1>
         </div>
 
         <div class="mx-auto  p-5 text-white w-2/5 div">
@@ -54,6 +54,10 @@ body {
     .div {
         width: 90%;
         margin: 0 auto;
+    }
+
+    .blog-header {
+        text-align: center !important;
     }
 
     .blog {

@@ -12,23 +12,34 @@ useHead({
 
 <template>
   <Header></Header>
-    <div class="grey text-white height" style="margin: 0 auto; max-width: 1440px;">
-      <div class="text flex flex-col justify-center items-center ">
-        <div>
-          <p class="Chomsky text-center mt-6">akumarujon</p>
-        </div>
-        <p class="JetBrainsMono text-center">Self-taught Developer from Uzbekistan.</p>
+  <div class="grey text-white height" style="margin: 0 auto; max-width: 1440px;">
+    <div class="text flex flex-col justify-center items-center ">
+      <h1 class="Chomsky text-center mt-6 header">akumarujon</h1>
+      <p class="JetBrainsMono text-center">Self-taught Developer from Uzbekistan.</p>
     </div>
-    </div>
+  </div>
 </template>
   
 
-<style>
+<style scoped>
 .height {
   height: 100%;
 }
 
 .text {
   height: 80vh;
+}
+
+.header {
+  font-size: 100px;
+}
+
+@media screen and (max-width: 800px) {
+
+h1 {
+    margin: 0 auto;
+    text-align: start !important;
+    font-size: 50px !important;
+}
 }
 </style>

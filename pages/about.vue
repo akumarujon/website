@@ -11,7 +11,7 @@ useHead({
     <div class="bg-neutral-950 text-white height">
         <Header></Header>
         <div class="container w-4/6 mx-auto">
-          <h1 class="text-center Chomsky">About me.</h1>
+          <h1 class="text-center Chomsky about-header">About me.</h1>
           <p class="JetBrainsMono m-5">I am 17 years old self-taught developer from Uzbekistan. I have started my career since 2020.
             I have experienced several Telegram Bot frameworks, VueJS/NuxtJS, several backend frameworks like 
             Django, Flask, ExpressJS. I use several programming languages as JavaScript, TypeScript, Python3,
@@ -30,4 +30,9 @@ useHead({
     height: 100%;
 }
 
+@media screen and (max-width: 800px) {
+    .about-header {
+        text-align: center !important;
+    }
+}
 </style>
