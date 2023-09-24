@@ -1,35 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-    font-family: 'JetBrains Mono Bold';
-    src: url('../../fonts/JetBrainsMono-Bold.ttf');
-}
-@font-face {
-    font-family: 'JetBrains Mono Bold Italic';
-    src: url('../../fonts/JetBrainsMono-Bold-Italic.ttf');
-}
-@font-face {
-    font-family: 'JetBrains Mono ExtraBold';
-    src: url('../../fonts/JetBrainsMono-ExtraBold.ttf');
-}
-@font-face {
-    font-family: 'JetBrains Mono ExtraBold';
-    src: url('../../fonts/JetBrainsMono-ExtraBold.ttf');
-}
-@font-face {
-    font-family: 'JetBrains Mono Italic';
-    src: url('../../fonts/JetBrainsMono-Italic.ttf');
-}
-@font-face {
-    font-family: 'JetBrains Mono Medium Italic';
-    src: url('../../fonts/JetBrainsMono-Medium-Italic.ttf');
-}
-@font-face {
-    font-family: 'JetBrains Mono Medium';
-    src: url('../../fonts/JetBrainsMono-Medium.ttf');
-}
 @font-face {
     font-family: 'JetBrains Mono';
     src: url('../../fonts/JetBrainsMono-Regular.ttf');
@@ -44,37 +18,21 @@
     src: url("../../fonts/Chomsky.otf");
 }
 
+@font-face {
+    font-family: 'SF-Mono';
+    src: url("../../fonts/SF-Mono.dmg");
+}
+
 .JetBrainsMono {
-    font-family: 'JetBrains Mono';
+    font-family: 'Inconsolata', monospace;
 }
-.JetBrainsMono-Bold {
-    font-family: 'JetBrains Mono Bold';
-}
-.JetBrainsMono-ExtraBold {
-    font-family: 'JetBrains Mono ExtraBold';
-}
-.JetBrainsMono-Bold-Italic {
-    font-family: 'JetBrains Mono Bold Italic';
-}
-.JetBrains-Mono-ExtraBold-Italic {
-    font-family: 'JetBrains Mono ExtraBold Italic';
-}
-.JetBrainsMono-Italic {
-    font-family: 'JetBrains Mono Italic';
-}
-.JetBrainsMono-Medium-Italic {
-    font-family: 'JetBrains Mono Medium Italic';
-}
-.JetBrainsMono-Medium {
-    font-family: 'JetBrains Mono Medium';
-}
+
 .Fette-Haenel {
     font-family: 'Fette Haenel';
 }
 
 .Chomsky {
-    font-family: "Chomsky";
-}
+    font-family: 'Lato', sans-serif;}
 
 .link {
     font-size: 30px !important;
@@ -95,6 +53,5 @@ a {
 @media screen and (max-width: 700) {
     * { 
         font-size: 30px;
-        color: red;
     }
 }
