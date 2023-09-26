@@ -16,14 +16,14 @@ useHead({
 </script>
 
 <template>
-    <div class="text-center grey text-white w-100 p-10 Chomsky mx-auto">
+    <div class="text-center grey text-white w-100 Chomsky mx-auto">
         <div class="container flex mx-auto justify-between items-center">
             <NuxtLink to="/">
-                <h1 class="mx-5">akumarujon's</h1>
+                <h1 class="mx-5"><img src="../assets/png/bucket.png" alt="Home" width="100"></h1>
             </NuxtLink>
             <ul class="mx-5">
                 <li>
-                    <NuxtLink to="/map" class="link">Map</NuxtLink>
+                    <NuxtLink to="/map" class="link"><img src="../assets/png/map.png" width="60" alt="Map"></NuxtLink>
                 </li>
             </ul>
         </div>

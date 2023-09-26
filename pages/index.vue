@@ -15,8 +15,8 @@ useHead({
     <Header></Header>
     <div class="grey text-white" style="margin: 0 auto; max-width: 1440px;">
       <div class="text flex flex-col justify-center items-center ">
-        <h1 class="Chomsky text-center mt-6 header">akumarujon</h1>
-        <p class="JetBrainsMono text-center p-text">Self-taught Developer from Uzbekistan.</p>
+        <h1 class="Chomsky text-center mt-6 header" style="font-size: 100px;">akumarujon</h1>
+        <p class="JetBrainsMono text-center">Self-taught Developer from Uzbekistan.</p>
       </div>
     </div>
   </div>
@@ -32,12 +32,8 @@ useHead({
   height: 80vh;
 }
 
-.p-text {
-  font-size: 35px !important;
-}
-
 .header {
-  font-size: 100px !important;
+  font-size: 100px;
 }
 
 @media screen and (max-width: 800px) {
