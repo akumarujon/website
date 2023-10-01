@@ -1,21 +1,23 @@
+* {
+  letter-spacing: 2px;
+}
+
 h1 {
-    font-size: 40px !important;
+  font-size: 45px !important;
 }
 
 p {
-    font-size: 24px !important;
+  font-size: 29px !important;
 }
 
 @media screen and (max-width: 800px) {
+  h1 {
+    margin: 0 auto;
+    text-align: start !important;
+    font-size: 35px !important;
+  }
 
-    h1 {
-        margin: 0 auto;
-        text-align: start !important;
-        font-size: 30px !important;
-    }
-
-    p {
-        font-size: 19px !important;
-    }
-
+  p {
+    font-size: 24px !important;
+  }
 }

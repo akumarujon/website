@@ -6,7 +6,7 @@ slug: who-am-i
 
 ## Who am I?
 
-My name is Akmal. "akumaru" is my nickname over the WWW. Many people know my original name and many of them don't. I am 17 years old developer form Uzbekistan. I've been learning coding since 2020(quarantine). I have tried a lot of languages so far like PHP, Python, JavaScript, TypeScript, Rust, C++, Nim and V. I'm using some of them nowadays on my current projects. For example: Rust, Python and TypeScript. I've several projects that I mentioned on [projects page](https://akumarujon.uz/projects) but I have done lots of projects on my machine. I don't want to publish them because of sh*t code. I'm a real shitcoder. Actually almost all of my projects are built by shit code. But some of them are readable/better than the ones I haven't published.
+My name is Akmal. "akumaru" is my nickname over the WWW. Many people know my original name and many of them don't. I am 17 years old developer form Uzbekistan. I've been learning coding since 2020 (quarantine). I have tried a lot of languages so far like PHP, Python, JavaScript, TypeScript, Rust, C++, Nim and V. I'm using some of them nowadays on my current projects. For example: Rust, Python and TypeScript. I've several projects that I mentioned on [projects page](https://akumarujon.uz/projects) but I have done lots of projects on my machine. I don't want to publish them because of sh*t code. I'm a real shitcoder. Actually almost all of my projects are built by shit code. But some of them are readable/better than the ones I haven't published.
 
 
 ## Past
