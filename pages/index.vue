@@ -14,8 +14,8 @@ useHead({
   <div class="pb-5 height">
     <Header></Header>
     <div class="grey text-white" style="margin: 0 auto; max-width: 1440px;">
-      <div class="text flex flex-col justify-center items-center ">
-        <h1 class="Chomsky text-center mt-6 header" style="font-size: 100px;">akumarujon</h1>
+      <div class="text flex flex-col justify-center items-center">
+        <h1 class="Chomsky text-center mt-6 header" style="font-size: 70px !important;">akumarujon</h1>
         <p class="JetBrainsMono text-center">Self-taught Developer from Uzbekistan.</p>
       </div>
     </div>

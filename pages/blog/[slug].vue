@@ -25,7 +25,7 @@
 .prose :where(h6):not(:where([class~="not-prose"] *)),
 .prose :where(p):not(:where([class~="not-prose"] *)) {
   color: #e5e5e5 !important;
-  font-family: JetBrains Mono;
+  font-family: "DM Sans", sans-serif;
   line-height: 1.5;
 }
 

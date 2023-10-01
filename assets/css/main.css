@@ -1,58 +1,58 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,200&display=swap");
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @font-face {
-    font-family: 'JetBrains Mono';
-    src: url('../../fonts/JetBrainsMono-Regular.ttf');
+  font-family: "JetBrains Mono";
+  src: url("../../fonts/JetBrainsMono-Regular.ttf");
 }
 @font-face {
-    font-family: 'Fette Haenel';
-    src: url('../../fonts/FetteHaenelFraktur.ttf');
-}
-
-@font-face {
-    font-family: 'Chomsky';
-    src: url("../../fonts/Chomsky.otf");
+  font-family: "Fette Haenel";
+  src: url("../../fonts/FetteHaenelFraktur.ttf");
 }
 
 @font-face {
-    font-family: 'SF-Mono';
-    src: url("../../fonts/SF-Mono.dmg");
+  font-family: "Chomsky";
+  src: url("../../fonts/Chomsky.otf");
+}
+
+@font-face {
+  font-family: "SF-Mono";
+  src: url("../../fonts/SF-Mono.dmg");
 }
 
 .JetBrainsMono {
-    font-family: 'Inconsolata', monospace;
+  font-family: "DM Sans", sans-serif;
 }
 
 .Fette-Haenel {
-    font-family: 'Fette Haenel';
+  font-family: "DM Sans", sans-serif;
 }
 
 .Chomsky {
-    font-family: 'JetBrains Mono';
+  font-family: "DM Sans", sans-serif;
 }
 
 .link {
-    font-size: 30px !important;
+  font-size: 30px !important;
 }
 
 .body {
-    background-color: black;
+  background-color: black;
 }
 
 body {
-    background-color: black !important;
+  background-color: black !important;
 }
 
 a {
-    text-decoration: none !important;
+  text-decoration: none !important;
 }
 
 @media screen and (max-width: 700) {
-    * { 
-        font-size: 30px;
-    }
+  * {
+    font-size: 30px;
+  }
 }
