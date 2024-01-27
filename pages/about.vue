@@ -15,7 +15,7 @@ useHead({
           <p class="JetBrainsMono m-5 paragraph">I am 17 years old self-taught developer from Uzbekistan. I have started my career since 2020.
             I have experienced several Telegram Bot frameworks, VueJS/NuxtJS, several backend frameworks like 
             Django, Flask, ExpressJS. I use several programming languages as JavaScript, TypeScript, Python3,
-            Rust and Shell for scripting purposes. I'm planning to learn more about C/C++ and Zig.
+            Rust and Shell for scripting purposes. I'm planning to learn more about C/C++,Zig and several functional programming languages like Haskell and Scala. 
             Doing some design works with Figma. I'm active linux user. I have tried more than 8 linux distributions like
             ArchLinux, EndeavourOS, ArcoLinux, Manjaro, Fedora, Ubuntu, Lubuntu, Linux Mint. I can communicate in English(b2) and Uzbek(native) as well, learning
             Russian nowadays. 
