@@ -19,11 +19,15 @@ useHead({
     <div class="text-center grey text-white w-100 Chomsky mx-auto">
         <div class="container flex mx-auto justify-between items-center">
             <NuxtLink to="/">
-                <h1 class="mx-5"><img src="../assets/png/bucket.png" alt="Home" width="100"></h1>
+                <h1 class="mx-5">
+                    <NuxtImg src="/bucket.png" alt="Home" width="100"></NuxtImg>
+                </h1>
             </NuxtLink>
             <ul class="mx-5">
                 <li>
-                    <NuxtLink to="/map" class="link"><img src="../assets/png/map.png" width="60" alt="Map"></NuxtLink>
+                    <NuxtLink to="/map" class="link">
+                        <NuxtImg src="map.png" width="60" alt="Map"></NuxtImg>
+                    </NuxtLink>
                 </li>
             </ul>
         </div>
