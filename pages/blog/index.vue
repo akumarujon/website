@@ -14,13 +14,13 @@ useHead({
             <h1 class="text-center Chomsky blog-header">Blogs</h1>
         </div>
 
-        <div class="mx-auto  p-5 text-white w-2/5 div">
+        <div class="mx-auto  p-5 text-white text-lg font-light leading-8 w-3/5 div">
             <ContentList path="/blog" v-slot="{ list }">
                 <div v-for="blog in list" :key="blog._path" class="my-5 p-5 border grey rounded-2xl blog">
                     <NuxtLink :to="`/blog/${blog.slug}`">
-                        <h1 class="">{{ blog.title }}</h1>
+                        <h1 class="text-3xl">{{ blog.title }}</h1>
                         <br>
-                        <p class="">{{ blog.description }}</p>
+                        <p class="text-xl">{{ blog.description }}</p>
                     </NuxtLink>
                 </div>
 
@@ -30,6 +30,7 @@ useHead({
 </template>
 
 <style>
+
 body {
     background-color: #0a0a0a;
 }

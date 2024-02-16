@@ -3,11 +3,11 @@
 }
 
 h1 {
-  font-size: 45px !important;
+  font-size: 30px;
 }
 
 p {
-  font-size: 29px !important;
+  font-size: 29px;
 }
 
 @media screen and (max-width: 800px) {

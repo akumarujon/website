@@ -15,6 +15,7 @@
 </template>
 
 <style scoped>
+
 .prose :where(code):not(:where([class~="not-prose"] *)),
 .prose :where(a):not(:where([class~="not-prose"] *)),
 .prose :where(h1):not(:where([class~="not-prose"] *)),
