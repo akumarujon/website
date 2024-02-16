@@ -17,7 +17,7 @@ const socials = ref(json);
 <template>
     <Header></Header>
     <div class="grey text-white height" style="margin: 0 auto; max-width: 1440px;">
-        <div class="text flex flex-col div">
+        <div class="flex flex-col div">
             <h1 class="text-center Chomsky mb-5 heading">Reach me on social media.</h1>
             <div v-for="social in socials" class="items-center flex justify-center">
                 <NuxtLink :to="`${social.link}`">
@@ -32,10 +32,6 @@ const socials = ref(json);
 <style>
 .height {
     height: 100%;
-}
-
-.text {
-    height: 80vh;
 }
 
 .social {
