@@ -10,8 +10,8 @@ useHead({
 <template>
     <div class="grey text-white height">
         <Header></Header>
-        <div class="w-1/4 mx-auto Chomsky justify-center text-center div">
-            <h1 class="mb-5 map-header">Map for my website.</h1>
+        <h1 class="mb-5 map-header text-center">Map for my website.</h1>
+        <div class="w-1/4 mx-auto Chomsky justify-center flex flex-wrap lg:flex-nowrap text-center div">
             <NuxtLink to="/" class="link">Home</NuxtLink>
             <NuxtLink to="/projects" class="link">Projects</NuxtLink>
             <NuxtLink to="/about" class="link">About</NuxtLink>
@@ -26,6 +26,7 @@ useHead({
 .link {
     display: block;
     font-size: 30px !important;
+    width: 450px;
 }
 
 .link {
