@@ -1,14 +1,37 @@
+<script setup lang="ts">
+import { Marked, Renderer} from "@ts-stack/markdown";
+
+Marked.setOptions({
+  renderer: new Renderer,
+  gfm: true,
+  tables: true,
+  breaks: false,
+  pedantic: false,
+  sanitize: false,
+  smartLists: true,
+  smartypants: false
+})
+
+const route = useRoute()
+const { data } = await useFetch('/api/readfile', {
+  method: "POST",
+  body: {
+    slug: route.params.slug
+  }
+})
+
+const result = Marked.parse(data.value!.data)
+
+</script>
+
 <template>
   <main>
     <Header></Header>
     <div class="w-10/12 mx-auto p-5 text-white container">
       <article class="prose mx-auto text-white">
-        <ContentDoc v-slot="{ doc }">
-          <h1 class="text-4xl text-center p-3 text-white Chomsky blog-header">{{ doc.title }}</h1>
-          <div class="text-xl text-white">
-            <ContentRenderer :value="doc" class="text-white paragraph" />
-          </div>
-        </ContentDoc>
+      <div v-html="result">
+
+      </div>
       </article>
     </div>
   </main>
